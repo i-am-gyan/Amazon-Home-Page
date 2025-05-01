@@ -18,7 +18,7 @@ A fully responsive clone of the Amazon home page built using only HTML and CSS. 
 ## 📸 Screenshots
 
 ### 🧭 Navbar Section
-![Navbar](images/navbar.png)
+![Navbar](https://raw.githubusercontent.com/i-am-gyan/Amazon-Home-Page/refs/heads/main/Navbar-Section.png)
 
 ### 🛍️ Product Grid Section
 ![Product Grid](images/product-grid.png)
