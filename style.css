@@ -9,7 +9,7 @@
     background-color: #e3e6e6;
   }
   
-  /* ========== Navbar ========== */
+  /* Navbar */
   
   .navbar {
     height: 60px;
@@ -91,7 +91,7 @@
     color: #111;
   }
   
-  /* ========== Account/Cart ========== */
+  /* Account/Cart */
   
   .nav-signin span,
   .nav-return span {
@@ -113,7 +113,7 @@
     margin-right: 5px;
   }
   
-  /* ========== Panel ========== */
+  /* Panel */
   
   .panel {
     height: 40px;
@@ -144,7 +144,7 @@
     color: #febd69;
   }
   
-  /* ========== Hero Section ========== */
+  /* Hero Section */
   
   .hero-section {
     background-image: url('AmazonCoverImage.jpg');
@@ -179,7 +179,7 @@
     text-decoration: underline;
   }
   
-  /* ========== Shop Section ========== */
+  /* Shop Section */
   
   .shop-section {
     display: grid;
@@ -223,7 +223,7 @@
     text-decoration: underline;
   }
   
-  /* ========== Footer ========== */
+  /* Footer */
   
   footer {
     margin-top: 40px;
