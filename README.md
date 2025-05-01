@@ -27,7 +27,7 @@ A fully responsive clone of the Amazon home page built using only HTML and CSS. 
 ![Full View](https://github.com/i-am-gyan/Amazon-Home-Page/blob/2fb29445ea7db40c489e5fec03761f988e01551e/Full-Desktop-View.png)
 
 ### 📱 Tablet View (Responsive)
-![Tablet View](images/tablet-view.png)
+![Tablet View](https://github.com/i-am-gyan/Amazon-Home-Page/blob/daff7bcfb751ba7bc9356ad02763da8f636d7aed/Tab-View(via-DevTools).png)
 
 ### 🔻 Footer Section
 ![Footer](images/footer.png)
