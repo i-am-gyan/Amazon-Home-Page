@@ -44,16 +44,16 @@ A fully responsive clone of the Amazon home page built using only HTML and CSS. 
 
 ## 📁 Folder Structure
 
+```
 amazon-clone/
 │
 ├── index.html              # Main HTML file
 ├── style.css               # Styling for the page
-├── images/                 # Folder for screenshots or product images
+├── images/                 # Screenshots 
 │   ├── navbar.png
 │   ├── footer.png
 │   ├── tab-view.png
 │   ├── desktop-view.png
 │   └── grid-section.png
 └── README.md               # Project documentation
-
-
+```
