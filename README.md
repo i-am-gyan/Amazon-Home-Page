@@ -44,26 +44,16 @@ A fully responsive clone of the Amazon home page built using only HTML and CSS. 
 
 ## 📁 Folder Structure
 
-amazon-clone/
-</br>
-│
-</br>
-├── index.html
-</br>
-├── style.css
-</br>
-├── images/
-</br>
-│   ├── navbar.png
-</br>
-│   ├── footer.png
-</br>
-│   ├── tab-view.png
-</br>
-│   ├── desktop-view.png
-</br>
-│   └── grid-section.png
-</br>
+amazon-clone/</br>
+│</br>
+├── index.htm</br>
+├── style.css</br>
+├── images/</br>
+│   ├── navbar.png</br>
+│   ├── footer.png</br>
+│   ├── tab-view.png</br>
+│   ├── desktop-view.png</br>
+│   └── grid-section.png</br>
 └── README.md
 
 
